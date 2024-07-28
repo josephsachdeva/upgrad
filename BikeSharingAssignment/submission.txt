@@ -1,2 +1,2 @@
-Github Repo Link: https://github.com/josephsachdeva/LendingClubCaseStudy
+Github Repo Link: https://github.com/josephsachdeva/upgrad/tree/master/BikeSharingAssignment
 
